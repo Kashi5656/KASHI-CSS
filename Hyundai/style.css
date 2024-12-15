@@ -1,0 +1,414 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar
+{
+    width: 100%;
+    background-color: #FEFEFE;
+}
+.navbarcontenar
+{
+    height: 71px;
+    width: 90%;
+    margin: auto;
+    background-color: #FEFEFE;
+}
+.list img
+{
+    height: 25px;
+    width: 150px;
+}
+.list
+{
+    height: 71px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.list ul
+{
+    display: flex;
+    align-items: center;
+}
+.list ul li
+{
+    list-style: none;
+}
+.list ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.banner
+{
+    width: 100%;
+}
+.bannercontenar
+{
+    height: 490px;
+    width: 90%;
+    margin: 40px auto 40px auto ;
+}
+.bannercontenar img
+{
+    height: 490px;
+    width: 100%;
+}
+.Caroptaion
+{
+    width: 100%;
+}
+.Caroptaion-Contenar
+{
+    height: 330px;
+    width: 880px;
+    margin: auto;
+}
+.Caroptaion-Contenar img
+{
+    height: 330px;
+    width: 100%;
+}
+.Cartype 
+{
+    width: 100%;
+}
+.cartype-contenar
+{ 
+    height: 60px;
+    width: 35%;
+    margin: auto;
+}
+.cartype-contenar ul
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cartype-contenar ul li
+{
+    list-style: none;
+    padding: 0px 16px;
+}
+.cartype-contenar ul li a
+{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+.carinfo
+{
+    width: 100%;
+}
+.carinfocontenar
+{
+    height: 180px;
+    width: 880px;
+    margin-left: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.carinfocontenar li
+{
+    list-style: none;
+}
+.car-Optaioan
+{
+    width: 100%;
+    background-color: #F6F3F2;
+}
+.Optaion-Contenar
+{
+    height: 170px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Optaion
+{
+    height: 50px;
+    width: 280px;
+    background-color: #767676;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Optaion a
+{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Happening
+{
+    width: 100%;
+    background-color: #002C5F;
+}
+.Happening-contenar
+{
+    height: 150px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.postar
+{
+    width: 100%;
+    margin-top: 70px;
+}
+.postar-contenar
+{
+    height: 400px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.postarimg
+{
+    height: 400px;
+    width: 352px;
+}
+.postarimg .brand
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bennar-2
+{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.bennar-2-contenar
+{
+    width: 100%;
+    height: 540px;
+    margin: auto;
+}
+.bennar-2-contenar img
+{
+    height: 540px;
+    width: 100%;
+}
+.knowbutton
+{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.knowbutton-contenar
+{
+    height: 45px;
+    width: 280px;
+    margin: auto;
+    border: 1px solid #002C5F;
+}
+.knowbutton-contenar button
+{
+    height: 45px;
+    width: 100%;
+    background-color: #002C5F;
+    color: white;
+    border: none;
+}
+.postar-2
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.postar-2-contenar
+{
+    height: 750px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.postar-2img
+{
+    height: 355px;
+    width: 355px;
+}
+.postar-2img img
+{
+    height: 355px;
+    width: 100%;
+}
+.News-backgrund
+{
+    height: 550px;
+    width: 100%;
+    background-image: url('img/desirt-img.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 70px;
+
+}
+.news-contend
+{
+    height: 370px;
+    width: 90%;
+    background-color: white;
+    margin: 80px auto 0px auto;
+    position: relative;
+}
+.india
+{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #767676;
+    text-align: center;
+    padding: 40px;
+    
+}
+.news-contend h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #002C5F;
+    text-align: center;
+}
+.button-2
+{
+    height: 45px;
+    width: 220px;
+    background-color: #002C5F;
+    margin: 30px auto;
+    border: 1px solid #002C5F;
+}
+.button-2 button
+{
+    height: 45px;
+    width: 220px;
+    background-color: #002C5F;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+.Find-Dealer
+{
+    width: 100%;
+}
+.Find-DealerContenar
+{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+}
+.Find-DealerContenar h1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.Find-DealerContenar p
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 12px;  
+    margin-bottom: 60px;
+}
+.menu-2 
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.DealershipMenu
+{
+    width: 90%;
+    margin-bottom: 15px;
+}
+.Dealership
+{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.inputmenu
+{
+    height: 50px;
+    display: flex;
+}
+.input-1 input
+{
+    height: 30px;
+    width: 190px;
+}
+.input-2 input
+{
+    height: 30px;
+    width: 240px;
+}
+.input-3 input
+{
+    height: 30px;
+    width: 100px;
+}
+.find-button button
+{
+    height: 35px;
+    width: 130px;
+    margin-left: 45%;
+    background-color: #002C5F;
+    color: #F6F3F2;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+.map
+{
+    width: 100%;
+}
+.map iframe
+{
+    margin-left: 50%;
+}
+.footer
+{
+    width: 100%;
+    background-color: #1C1B1B;
+}
+.footercontenar
+{
+    height: 340px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.footerlogo 
+{
+    height:35px;
+    width: 80px;
+    margin-top: 14px;
+}
+.footerlogo img
+{
+    height: 32px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
